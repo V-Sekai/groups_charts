@@ -29,9 +29,9 @@ See the original [WIKI](https://github.com/fenix-hub/godot-engine.easy-charts/wi
 # Available Charts and when to use them   
 
 This library offers a set of charts for each type of Godot Node:   
-- **Control Nodes:** "Control Charts" are fast Charts that can be plotted in a Control space, such as UIs or Control user interactable areas. They offer basic Control properties, such as Margins, size inheritance and Control. No animations, no real-time changes, just charts.   
+- **Control Nodes:** "Control Charts" are fast Charts that can be plotted in a Control space, such as UIs or Control user interactable areas. They offer basic Control properties, such as Margins, size inheritance and Control. No animations, no real-time changes, only charts.   
 - **2D Nodes:** "2D Charts" is a set of Charts that can be used in 2D spaces. They offer additional tools, such as animations and real-time changes in the editor. In addition, they can be used to implement more aesthetic charts in 2D contexts.   
-- **[wip] 3D Nodes:** "3D Charts" is a set of Charts that can be used in both 2D and 3D spaces. They offer the possibility to plot 3D datasets standard in machine learning contexts or just data analysis. A Camera Control will also be available, which can be used to move around the chart.   
+- **[wip] 3D Nodes:** "3D Charts" is a set of Charts that can be used in both 2D and 3D spaces. They offer the possibility to plot 3D datasets standard in machine learning contexts or data analysis. A Camera Control will also be available, which can be used to move around the chart.   
 
 ### Available Charts
 
