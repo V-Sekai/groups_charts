@@ -15,12 +15,12 @@ Charts are helpful for visually representing values powerfully and more understa
 Use these charts to plot some values in it, take a screenshot, or use it in a Godot Engine's game or project.
 
 ### Some Examples    
-<img src="imgs/real_time_line.gif" alt="example_LineChart_realtime" width="200"/>
-<img src="imgs/pie_chart_realtime.gif" alt="example_Piechart" width="200"/>
-<img src="imgs/radar.png" alt="exampleradar" width="200"/>
-<img src="imgs/scatter.gif" alt="example01" width="200"/>
-<img src="imgs/example02.png" alt="example02" width="200"/>
-<img src="imgs/example03.gif" alt="example03" width="200"/>
+<img src="imgs/real_time_line.gif" alt="example_LineChart_realtime" width="400"/>
+<img src="imgs/pie_chart_realtime.gif" alt="example_Piechart" width="400"/>
+<img src="imgs/radar.png" alt="exampleradar" width="400"/>
+<img src="imgs/scatter.gif" alt="example01" width="400"/>
+<img src="imgs/example02.png" alt="example02" width="400"/>
+<img src="imgs/example03.gif" alt="example03" width="400"/>
 
 ## How does it work?
 
